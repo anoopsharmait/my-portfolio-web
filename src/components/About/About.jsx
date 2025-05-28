@@ -45,8 +45,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://docs.google.com/document/d/1GvUXxkA-f4iGXG7Kaes9bdy4_Xd4dSb5yE-YzQodipA/edit?usp=drive_link"
-            target="_blank"
+            href="https://docs.google.com/document/d/1GvUXxkA-f4iGXG7Kaes9bdy4_Xd4dSb5yE-YzQodipA/edit?usp=sharing"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
