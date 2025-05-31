@@ -164,13 +164,12 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "GitHub Profile Detective",
-      description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+      title: "modern password generator app",
+      description:"This is a modern password generator app with a stylish gradient background, dark/light mode toggle, and real-time password strength indicator. Users can customize password length, include numbers or special characters, and even define their own symbols. The UI is responsive, colorful, and easy to use for generating secure passwords.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "https://github.com/anoopsharmait/password-generator-react-anoop.git",
+      webapp: "https://github.com/anoopsharmait/password-generator-react-anoop.git",
     },
    
     
